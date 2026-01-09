@@ -1,0 +1,45 @@
+# Claude Code Ignore File
+# Files and directories that Claude Code should not read or analyze
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+node_modules/
+
+# Sensitive data
+gas/Config.gs
+credentials.json
+client_secret*.json
+token.json
+.env
+.env.local
+
+# OAuth2 tokens
+.oauth2/*
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/

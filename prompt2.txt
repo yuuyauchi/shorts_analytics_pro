@@ -1,0 +1,11 @@
+以下の３つのmcpを使える状態にしてください。
+
+context7
+serena
+playwright
+
+また、git管理を行いたいです。gitignore及びclaudeのignoreファイルも用意し、以下のgithubレポジトリをリモートとして設定してください。
+
+https://github.com/yuuyauchi/shorts_analytics_pro.git
+
+また、githubアカウント「yuuyauchi」でこのレポジトリへのpushまでお願いします。

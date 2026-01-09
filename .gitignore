@@ -1,0 +1,49 @@
+# Google Apps Script Credentials
+gas/Config.gs
+
+# Environment files
+.env
+.env.local
+
+# OAuth2 tokens
+.oauth2/*
+
+# Mac OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Node modules (if used for tooling)
+node_modules/
+
+# Python (if used for tooling)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Sensitive data
+credentials.json
+client_secret*.json
+token.json
+
+# Build outputs
+dist/
+build/
+
+# Test files
+test/
+*.test.js
