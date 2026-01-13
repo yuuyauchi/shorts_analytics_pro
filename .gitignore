@@ -24,6 +24,9 @@ logs/
 *.bak
 *~
 
+# Prompt files
+prompt*
+
 # Node modules (if used for tooling)
 node_modules/
 
